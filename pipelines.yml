@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: MyGit                       # <-- replace with your integration
-      path: arangas/jfrog-pipelines-docker-sample    # <-- replace with your repository name
+      path: arangas27/jfrog-pipelines-docker-sample    # <-- replace with your repository name
       branches:
         include: master
 
